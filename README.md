@@ -81,6 +81,17 @@ MongoDB Users database:
 MongoDB Flights database:
 ![Screenshot (12)](https://user-images.githubusercontent.com/73932175/236749813-326b2064-437a-45a0-b35b-7563f2429385.png)
 
+Front Page:
+![Screenshot (13)](https://user-images.githubusercontent.com/73932175/236750249-d1649d31-3ab9-499a-b978-1cf298fbfcc9.png)
+
+SignUp Form:
+![Screenshot (15)](https://user-images.githubusercontent.com/73932175/236750367-558523a7-bfa4-4d41-afae-1267bd0bbf76.png)
+
+LogIn Form:
+![image](https://user-images.githubusercontent.com/73932175/236750427-14fde061-9f04-4fbd-98ad-ee3a69d79b14.png)
+
+Search Flights by date:
+![Screenshot (17)](https://user-images.githubusercontent.com/73932175/236750591-dd60b094-30cd-413c-b594-4aa80bdd1fdb.png)
 
 
 Backend is Completed,Frontend is partially completed.
