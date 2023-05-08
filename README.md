@@ -3,7 +3,7 @@ This is a web application where the user can signup,login and book flight ticket
 
 # Features
 
-Users:
+# Users:
 
 Sign up\
 Login\
@@ -13,7 +13,7 @@ View all the flights\
 View single flight details\
 Logout
 
-Admin:
+# Admin:
 
 Login\
 Add Flights\
