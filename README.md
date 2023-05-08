@@ -59,3 +59,8 @@ Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 ### Alter Flight (only for admin)
 Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 
+# Outputs
+Sign Up
+![Screenshot (6)](https://user-images.githubusercontent.com/73932175/236747500-dd74767b-fa7d-44dc-a0ed-24e3b557eb25.png)
+
+
