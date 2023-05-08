@@ -5,8 +5,8 @@ This is a web application where the user can signup,login and book flight ticket
 
 Users:
 
-Sign up 
-Login
+Sign up\ 
+Login\
 Search for Flights
 Book tickets based on availability
 View all the flights
