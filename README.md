@@ -7,7 +7,7 @@ This is a web application where the user can signup,login and book flight ticket
 
 Sign up\
 Login\
-Search for Flights\
+Search for Flights based on Dates\
 Book tickets based on availability\
 View all the flights\
 View single flight details\
@@ -30,9 +30,24 @@ Backend: Node JS, Express JS
 
 Database:  MongoDB
 
-# API 
+# API Details
 
 ### Sign Up
 Link: [http://localhost:8000/auth/register](http://localhost:8000/auth/register)
+
+### Log In
+Link: [http://localhost:8000/auth/login](http://localhost:8000/auth/login)
+
+### Search Flight based on Dates
+Link: [http://localhost:8000/flights/:from/:to](http://localhost:8000/flights/:from/:to)
+
+### Booking Seats
+Link: [http://localhost:8000/flights/:id/bookseat/:seatid](http://localhost:8000/flights/:id/bookseat/:seatid)
+
+### View all Flights
+Link: [http://localhost:8000/flights/](http://localhost:8000/flights/)
+
+### View Single Flight
+Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 
 
