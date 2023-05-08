@@ -60,13 +60,13 @@ Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 
 # Outputs
-Sign Up
+Sign Up:
 ![Screenshot (6)](https://user-images.githubusercontent.com/73932175/236747500-dd74767b-fa7d-44dc-a0ed-24e3b557eb25.png)
 
-Log In
+Log In:
 ![Screenshot (7)](https://user-images.githubusercontent.com/73932175/236747712-13547a76-445a-4b5f-a9e9-4cbf88191fdd.png)
 
-Search Flights
+Search Flights:
 ![Screenshot (8)](https://user-images.githubusercontent.com/73932175/236748057-e0220d78-a34f-4c21-9e25-42d3dde68f09.png)
 
 Book Seat:
