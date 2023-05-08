@@ -29,3 +29,10 @@ FrontEnd: React JS , HTML ,CSS
 Backend: Node JS, Express JS
 
 Database:  MongoDB
+
+# API 
+
+###Sign Up
+Link: [http://localhost:8000/auth/register]
+
+
