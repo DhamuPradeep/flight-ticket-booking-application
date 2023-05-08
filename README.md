@@ -63,4 +63,25 @@ Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 Sign Up
 ![Screenshot (6)](https://user-images.githubusercontent.com/73932175/236747500-dd74767b-fa7d-44dc-a0ed-24e3b557eb25.png)
 
+Log In
+![Screenshot (7)](https://user-images.githubusercontent.com/73932175/236747712-13547a76-445a-4b5f-a9e9-4cbf88191fdd.png)
+
+Search Flights
+![Screenshot (8)](https://user-images.githubusercontent.com/73932175/236748057-e0220d78-a34f-4c21-9e25-42d3dde68f09.png)
+
+Book Seat:
+![Screenshot (9)](https://user-images.githubusercontent.com/73932175/236749183-66cb746d-3c9d-4680-afc7-04c72ce575b1.png)
+
+View All Flights:
+![Screenshot (10)](https://user-images.githubusercontent.com/73932175/236749376-f929f37b-804b-4635-aad2-ec60961fac66.png)
+
+MongoDB Users database:
+![Screenshot (11)](https://user-images.githubusercontent.com/73932175/236749578-81eae1a4-cf73-4ec9-96a2-838a62347cc9.png)
+
+MongoDB Flights database:
+![Screenshot (12)](https://user-images.githubusercontent.com/73932175/236749813-326b2064-437a-45a0-b35b-7563f2429385.png)
+
+
+
+Backend is Completed,Frontend is partially completed.
 
