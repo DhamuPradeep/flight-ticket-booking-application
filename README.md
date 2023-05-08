@@ -7,17 +7,17 @@ Users:
 
 Sign up\
 Login\
-Search for Flights
-Book tickets based on availability
-View all the flights
-View single flight details
-Logout
+Search for Flights\
+Book tickets based on availability\
+View all the flights\
+View single flight details\
+Logout\
 
 Admin:
 
-Login
-Add Flights
-Remove Flights
-Update Flight Details
-View all the flights
-View single flight details
+Login\
+Add Flights\
+Remove Flights\
+Update Flight Details\
+View all the flights\
+View single flight details\
