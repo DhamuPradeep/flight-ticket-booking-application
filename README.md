@@ -24,14 +24,8 @@ View single flight details
 
 # Technologies Used
 
-FrontEnd:
+FrontEnd: React JS , HTML ,CSS
 
-React JS , HTML ,CSS
+Backend: Node JS, Express JS
 
-Backend:
-
-Node JS, Express JS
-
-Database:
-
-MongoDB
+Database:  MongoDB
