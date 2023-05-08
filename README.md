@@ -32,7 +32,7 @@ Database:  MongoDB
 
 # API 
 
-###Sign Up
-Link: [http://localhost:8000/auth/register]
+### Sign Up
+Link: [http://localhost:8000/auth/register)
 
 
