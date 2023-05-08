@@ -50,4 +50,12 @@ Link: [http://localhost:8000/flights/](http://localhost:8000/flights/)
 ### View Single Flight
 Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 
+### Add Flights (only for admin)
+Link: [http://localhost:8000/flights/addflight](http://localhost:8000/flights)
+
+### Remove Flight (only for admin)
+Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
+
+### Alter Flight (only for admin)
+Link: [http://localhost:8000/flights/:id](http://localhost:8000/flights/:id)
 
