@@ -11,7 +11,7 @@ Search for Flights\
 Book tickets based on availability\
 View all the flights\
 View single flight details\
-Logout\
+Logout
 
 Admin:
 
@@ -20,4 +20,18 @@ Add Flights\
 Remove Flights\
 Update Flight Details\
 View all the flights\
-View single flight details\
+View single flight details
+
+# Technologies Used
+
+FrontEnd:
+
+React JS , HTML ,CSS
+
+Backend:
+
+Node JS, Express JS
+
+Database:
+
+MongoDB
